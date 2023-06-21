@@ -112,6 +112,7 @@ if 'logged_in' in st.session_state and st.session_state['logged_in']:
             default_index=0,
             orientation="horizontal",
         )
+        
     
             
         if selected == "Tasks List":
